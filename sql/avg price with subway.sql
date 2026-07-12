@@ -1,0 +1,1 @@
+SELECT minutes_to_subway, ROUND(AVG(price),2) as avg_price FROM cian_table GROUP BY minutes_to_subway ORDER BY minutes_to_subway

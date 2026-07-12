@@ -1,0 +1,8 @@
+pandas
+psycopg2
+matplotlib
+seaborn
+subprocess
+re
+numpy
+sklearn
